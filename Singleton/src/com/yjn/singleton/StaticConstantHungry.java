@@ -16,7 +16,7 @@ public class StaticConstantHungry {
 }
 
 class Singleton {
-    //①构造器私有
+    //①构造器私有化
     private Singleton() {
 
     }
